@@ -161,7 +161,7 @@ transform: scaleX(-1);
     color: #fffbfb;
 }
 
-@media (max-width: 900px)
+@media (max-width: 1000px)
 {
     .header
     {
@@ -191,7 +191,7 @@ transform: scaleX(-1);
 .header li a:hover {
     background-color: red;
 }
-@media (max-width: 900px)
+@media (max-width: 1000px)
 {
     .banner
     {
@@ -199,7 +199,7 @@ transform: scaleX(-1);
         height: 15%;
     }
 }
-@media (max-width: 900px)
+@media (max-width: 1000px)
 {
     .contentl
     {
@@ -207,7 +207,7 @@ transform: scaleX(-1);
         height: auto;
     }
 }
-@media (max-width: 900px)
+@media (max-width: 1000px)
 {
     .contentm
     {
@@ -215,7 +215,7 @@ transform: scaleX(-1);
         height: auto;
     }
 }
-@media (max-width: 900px)
+@media (max-width: 1000px)
 {
     .container
     {
@@ -223,7 +223,7 @@ transform: scaleX(-1);
         height: auto;
     }
 }
-@media (max-width: 900px)
+@media (max-width: 1000px)
 {
     .contentr
     {
@@ -231,7 +231,7 @@ transform: scaleX(-1);
         width: 100%;
     }
 }
-@media (max-width: 900px)
+@media (max-width: 1000px)
 {
     .footer
     {
