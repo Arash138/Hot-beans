@@ -157,7 +157,7 @@ height: auto;
 -webkit-transform: scaleX(-1); 
 transform: scaleX(-1); 
 } 
-@media (max-width: 900px)
+@media (max-width: 100px)
 {
     .header
     {
