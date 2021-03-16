@@ -158,7 +158,7 @@ transform: scaleX(-1);
     color: #fffbfb;
 }
 
-@media (max-width: 1500px)
+@media (max-width: 1000px)
 {
     .header
     {
@@ -188,7 +188,7 @@ transform: scaleX(-1);
 .header li a:hover {
     background-color: red;
 }
-@media (max-width: 1500px)
+@media (max-width: 1000px)
 {
     .banner
     {
@@ -196,7 +196,7 @@ transform: scaleX(-1);
         height: 15%;
     }
 }
-@media (max-width: 1500px)
+@media (max-width: 1000px)
 {
     .contentm
     {
@@ -204,7 +204,7 @@ transform: scaleX(-1);
         height: auto;
     }
 }
-@media (max-width: 1500px)
+@media (max-width: 1000px)
 {
     .container
     {
@@ -212,7 +212,7 @@ transform: scaleX(-1);
         height: auto;
     }
 }
-@media (max-width: 1500px)
+@media (max-width: 1000px)
 {
     .footer
     {
@@ -237,13 +237,13 @@ transform: scaleX(-1);
         padding: 1px;
     }
 }
-@media (max-width: 1500px)
+@media (max-width: 1000px)
 {
 #profile 
 { 
 float: right; 
 margin: 20px; 
-margin-top: -165px;  
+margin-top: -125px;  
 top: 11px; 
 width: auto; 
 height: auto; 
