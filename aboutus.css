@@ -200,18 +200,40 @@ li a:hover {
 }
 @media (max-width: 900px)
 {
+    .header
+    {
+        width: 100%;
+        background-color:rgb(100, 99, 99);
+        float: right;
+    }
+    .header ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+.header li {
+    float: left;
+}
+.header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:7px 9px ;
+    text-decoration: none;
+    font-size:14px;
+}
+.header li a:hover {
+    background-color: red;
+}
+@media (max-width: 900px)
+{
     .banner
     {
         width: 100%;
         height: 15%;
-    }
-}
-@media (max-width: 900px)
-{
-    .contentl
-    {
-        width: 100%;
-        height: auto;
     }
 }
 @media (max-width: 900px)
@@ -228,14 +250,6 @@ li a:hover {
     {
         width: 100%;
         height: auto;
-    }
-}
-@media (max-width: 900px)
-{
-    .contentr
-    {
-        height: auto;
-        width: 100%;
     }
 }
 @media (max-width: 900px)
@@ -262,4 +276,18 @@ li a:hover {
         float: center;
         padding: 1px;
     }
+}
+@media (max-width: 900px)
+{
+#profile 
+{ 
+float: right; 
+margin: 20px; 
+margin-top: -165px;  
+top: 11px; 
+width: auto; 
+height: auto; 
+-webkit-transform: scaleX(-1); 
+transform: scaleX(-1); 
+} 
 }
