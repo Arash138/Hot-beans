@@ -157,7 +157,7 @@ height: auto;
 -webkit-transform: scaleX(-1); 
 transform: scaleX(-1); 
 } 
-@media (max-width: 100px)
+@media (max-width: 1300px)
 {
     .header
     {
@@ -187,7 +187,7 @@ li a {
 li a:hover {
     background-color: red;
 }
-@media (max-width: 1000px)
+@media (max-width: 1300px)
 {
     .banner
     {
@@ -195,7 +195,7 @@ li a:hover {
         height: 15%;
     }
 }
-@media (max-width: 1000px)
+@media (max-width: 1300px)
 {
     .contentl
     {
@@ -203,7 +203,7 @@ li a:hover {
         height: auto;
     }
 }
-@media (max-width: 1000px)
+@media (max-width: 1300px)
 {
     .contentm
     {
@@ -211,7 +211,7 @@ li a:hover {
         height: auto;
     }
 }
-@media (max-width: 1000px)
+@media (max-width: 1300px)
 {
     .container
     {
@@ -219,7 +219,7 @@ li a:hover {
         height: auto;
     }
 }
-@media (max-width: 1000px)
+@media (max-width: 1300px)
 {
     .contentr
     {
@@ -227,7 +227,7 @@ li a:hover {
         width: 100%;
     }
 }
-@media (max-width: 1000px)
+@media (max-width: 1300px)
 {
     .footer
     {
