@@ -291,3 +291,11 @@ transform: scaleX(-1);
         height: auto;
     }
 }
+@media (max-width: 1000px)
+{
+    .container
+    {
+        width: 100%;
+        height: auto;
+    }
+}
