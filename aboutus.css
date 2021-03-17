@@ -291,3 +291,11 @@ height: auto;
 transform: scaleX(-1); 
 } 
 }
+@media (max-width: 1000px)
+{
+    .contentl
+    {
+        width: 100%;
+        height: auto;
+    }
+}
