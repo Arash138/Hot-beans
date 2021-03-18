@@ -1,0 +1,255 @@
+body{
+    margin: auto;
+    font-family: arial, Verdana, sans-serif;
+
+}
+.container{
+    width: 98.7%;
+    height: 1800px;
+	position: static;
+    border: 10px solid gainsboro;
+    float: left;
+  
+    }
+.header{
+    width: 100%;
+    background-color:rgb(100, 99, 99);
+    float: right;
+ } 
+.header  h1{
+	color: gainsboro;
+    text-align: center;
+    font-size: 300%;
+}
+.contentl{
+    width: 18%;
+	height:  55.1%;
+    background-color:rgb(100, 98, 98);
+    float: left;
+    font-size: large;
+    float: left;
+    color: rgb(255, 255, 255);
+    padding: 1%;
+ } 
+ .contentl img{
+     width: 97%;
+     height: 40%;
+     padding: 5px;
+     border-radius: 15px;
+ }
+ .contentm{
+    width: 59.6%;
+	height:  56.5%;
+    background-color: rgba(129, 0, 0, 0.226);
+    float: left;
+    font-size: larger;
+    text-align: center;
+    color: #333;
+    padding: 3px;
+ }
+ .contentr{
+    width: 18%;
+	height:  55.1%;
+    background-color:rgb(100, 98, 98);
+    float: right;
+    padding: 1%;
+ } 
+ .contentr img
+ {
+     height:auto;
+     width: 100%;
+     padding: 1%;
+     display: block;
+     border-radius: 15px;
+
+ }
+ .footer{
+    width: 100%;
+	height: auto;
+    background-color:gainsboro;
+    float: left;
+    color: #333;
+    text-align: center;
+ } 
+ #foterlogo1
+{
+    width: 3%;
+    height: 3%;
+    border-radius: 15px;
+    float: right;
+    padding: 10px;
+
+}
+#foterlogo
+{
+    width: 5%;
+    height: 5%;
+    border-radius: 15px;
+    float: center;
+    padding: 1px;
+}
+.banner{
+    width: 100%;
+    height: 19%;
+    float: left;
+    font-size: x-large;
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    text-shadow: 3px 5px #000000;
+}
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 26px 84.1px;
+    text-decoration: none;
+    font-size: x-large;
+}
+li a:hover {
+    background-color: red;
+}
+div{
+    color: rgb(255, 255, 255);
+}
+.link{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  } 
+.head{
+    background-color: rgb(100, 98, 98);
+    color: antiquewhite;
+    text-align: center;
+    text-shadow: 3px 3px rgb(231, 64, 64);
+    height: auto;
+    width: 100%;
+    float: right;
+    font-size: x-large;
+}
+.head img{
+    float: left;
+    padding: 5px;
+    width: 8%;
+    height: 8%;
+    background-color: rgb(100, 98, 98);
+}
+#profile 
+{ 
+float: right; 
+margin: 20px; 
+margin-top: -105px;  
+top: 11px; 
+width: auto; 
+height: auto; 
+-webkit-transform: scaleX(-1); 
+transform: scaleX(-1); 
+} 
+@media (max-width: 1000px)
+{
+    .header
+    {
+        width: 100%;
+        background-color:rgb(100, 99, 99);
+        float: right;
+    }
+    ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:20px 30px ;
+    text-decoration: none;
+    font-size:14px;
+}
+li a:hover {
+    background-color: red;
+}
+@media (max-width: 1000px)
+{
+    .banner
+    {
+        width: 100%;
+        height: 15%;
+    }
+}
+@media (max-width: 1000px)
+{
+    .contentl
+    {
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-width: 1000px)
+{
+    .contentm
+    {
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-width: 1000px)
+{
+    .container
+    {
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-width: 1000px)
+{
+    .contentr
+    {
+        height: auto;
+        width: 100%;
+    }
+}
+@media (max-width: 1000px)
+{
+    .footer
+    {
+    width: 100%;
+    height: auto;
+    }
+    #foterlogo1
+    {
+        width: 8%;
+        height: 8%;
+        border-radius: 15px;
+        float: right;
+        padding: 10px;
+    
+    }
+    #foterlogo
+    {
+        width: 15%;
+        height: 15%;
+        border-radius: 15px;
+        float: center;
+        padding: 1px;
+    }
+}
