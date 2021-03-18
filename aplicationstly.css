@@ -29,6 +29,7 @@ body{
     float: left;
     color: rgb(0, 0, 0);
     padding: 1%;
+    text-align: center;
  } 
  .contentm{
     width: 64%;
@@ -47,6 +48,7 @@ body{
     float: right;
     padding: 1%;
     color: #000000;
+    text-align: center;
  } 
  .container ul
  {
@@ -62,6 +64,7 @@ body{
     background-color:gainsboro;
     float: left;
     color: #333;
+    text-align: center;
  } 
  #foterlogo1
 {
