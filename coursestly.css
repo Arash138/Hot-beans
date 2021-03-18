@@ -5,7 +5,7 @@ body{
 }
 .container{
     width: 98.7%;
-    height:1450px;
+    height:    1250px;
 	position: static;
     border: 10px solid gainsboro;
     float: left;
@@ -78,7 +78,7 @@ body{
     padding: 1px;
 }
 .banner{
-    width: 100%;
+    width: 99.4%;
     height: auto;
     float: left;
     font-size: x-large;
