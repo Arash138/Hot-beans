@@ -13,14 +13,9 @@ body{
     }
 .header{
     width: 100%;
-    background-color:rgb(100, 99, 99);
     float: right;
  } 
-.header  h1{
-	color: gainsboro;
-    text-align: center;
-    font-size: 300%;
-}
+
 .contentl{
     width: 18%;
 	height:  auto;
