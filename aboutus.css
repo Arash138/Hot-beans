@@ -30,8 +30,7 @@ body{
     background-color: rgba(129, 0, 0, 0.226);
     float: left;
     font-size: larger;
-    text-align: center;
-    color: #333;
+
     padding: 3px;
  }
  .contentr{
@@ -146,7 +145,7 @@ transform: scaleX(-1);
     }   
 div.gallery 
 { 
-    margin: 20px 77.9px ;
+    margin: 30px 77.9px ;
     border: 1px solid rgb(0, 0, 0); 
     float: left; 
     width: 180px; 
