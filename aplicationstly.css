@@ -236,7 +236,6 @@ input[type=text], select {
     .header
     {
         width: 100%;
-        background-color:rgb(100, 99, 99);
         float: right;
     }
     .header ul 
